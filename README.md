@@ -10,7 +10,7 @@ With an array of features and constant development, Gervase strives to offer a c
 
 If you need any additional help with Gervase, ask in our [Discord server!](https://discord.gg/aumdc7rYT3)&#x20;
 
-### UseFul links
+### Useful links
 
 ***
 
