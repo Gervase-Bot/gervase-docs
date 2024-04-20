@@ -40,10 +40,4 @@ Danger\
 Well known bugs and deprecated/globally disabled modules will be displayed in large red boxes like this.
 {% endhint %}
 
-{% hint style="success" %}
-Success\
-\
-Completed/Finished tasks will be shown in large green boxes like this
-{% endhint %}
-
 **Made with 💖 By the Gervase Team.**
